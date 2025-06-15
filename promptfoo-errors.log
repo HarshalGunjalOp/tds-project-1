@@ -1,0 +1,12 @@
+2025-06-15T18:57:03.037Z [ERROR]: Error running database migrations: Error: The module '/home/harshal/.npm/_npx/1ddbeaccabfe00a4/node_modules/better-sqlite3/build/Release/better_sqlite3.node'
+was compiled against a different Node.js version using
+NODE_MODULE_VERSION 131. This version of Node.js requires
+NODE_MODULE_VERSION 137. Please try re-compiling or re-installing
+the module (for instance, using `npm rebuild` or `npm install`).
+2025-06-15T18:57:04.046Z [ERROR]: Error running database migrations: Error: Module did not self-register: '/home/harshal/.npm/_npx/1ddbeaccabfe00a4/node_modules/better-sqlite3/build/Release/better_sqlite3.node'.
+2025-06-15T18:57:36.862Z [ERROR]: Error running database migrations: Error: The module '/home/harshal/.npm/_npx/1ddbeaccabfe00a4/node_modules/better-sqlite3/build/Release/better_sqlite3.node'
+was compiled against a different Node.js version using
+NODE_MODULE_VERSION 131. This version of Node.js requires
+NODE_MODULE_VERSION 137. Please try re-compiling or re-installing
+the module (for instance, using `npm rebuild` or `npm install`).
+2025-06-15T18:57:37.870Z [ERROR]: Error running database migrations: Error: Module did not self-register: '/home/harshal/.npm/_npx/1ddbeaccabfe00a4/node_modules/better-sqlite3/build/Release/better_sqlite3.node'.
