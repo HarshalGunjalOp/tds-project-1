@@ -11,3 +11,4 @@ preprocess.py
 *.pyc
 .DS_Store
 node_modules/
+promptfoo-error.log
