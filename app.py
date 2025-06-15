@@ -95,7 +95,7 @@ def make_rag_prompt(question, selected_chunks):
     )
     return prompt
 
-@app.post("/api/", response_model=QueryResponse)
+@app.post("/api", response_model=QueryResponse)
 async def query_api(req: QueryRequest):
     # 1. Extract image context if provided
     question = req.question
